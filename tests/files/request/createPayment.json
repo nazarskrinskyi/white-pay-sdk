@@ -1,0 +1,7 @@
+{
+  "amount": "300",
+  "currency": "USDT",
+  "external_order_id": "INV-123",
+  "successful_link": "https://merchant.website.com",
+  "failure_link": "https://merchant.website.com"
+}

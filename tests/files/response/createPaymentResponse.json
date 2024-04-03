@@ -1,0 +1,22 @@
+{
+  "order": {
+    "id": "08d585b1-86c6-496d-b413-ab17aa74fdd6",
+    "currency": "UAH",
+    "expected_amount": "0.22",
+    "received_total": "0",
+    "exchange_rate": "37.83",
+    "received_currency": "USDT",
+    "deposited_currency": "USDT",
+    "value": "200",
+    "status": "OPEN",
+    "external_order_id": "INV-123",
+    "created_at": "2022-03-22 23:46:12",
+    "completed_at": null,
+    "acquiring_url": "https://merchant.pay.whitepay.com/crypto-orders/08d585b1-86c6-496d-b413-ab17aa74fdd6",
+    "is_internal": false,
+    "successful_link": null,
+    "failure_link": null,
+    "order_number": "000000001",
+    "transactions": []
+  }
+}
