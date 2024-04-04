@@ -1,7 +1,7 @@
 {
     "name": "dnc-grafmen/white-pay-sdk",
     "type": "library",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "autoload": {
         "psr-4": {
             "WhitePaySdk\\": "src/"
